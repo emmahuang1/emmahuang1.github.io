@@ -1,0 +1,29 @@
+h1 {
+	font-family: 'Rakkas', cursive;
+	font-size: 90px;
+	margin-bottom: 0px;
+}
+p {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	padding-left: 60px;
+	line-height: 36px;
+	margin-bottom: 10px;
+}
+h3 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 30px;
+	padding-left: 60px;
+	margin-bottom: 0px;
+}
+a {
+	color: black;
+}
+table {
+	margin-bottom: 0px;
+}
+img {
+	padding-left: 60px;
+	max-width:30%;
+	height:auto;
+}
