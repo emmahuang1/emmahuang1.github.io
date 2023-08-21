@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rakkas&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="styles.css" />
+
+<head>
+
+<title>Interlake Go Club</title>
+
+</head>
+
+<body>
+
+<h1 ><center>Interlake Go Club</center></h1><b>
+
+<center>
+<table cellpadding = "10">
+<tr>
+<td><b><p><a href="index.html">Home</a></p></b></td>
+<td><b><p><a href="about.html">About</a></p></b></td>
+<td><b><p><a href="members.html">Officers</a></p></b></td>
+</tr>
+</table>
+</center>
+
+<h3>President</h3>
+<p>Emma Huang</p>
+<img src="emma.jpg">
+
+</body>
+
+<footer>
+
+<p style="padding:30px;"></p>
+
+</footer>
+
+</html> 
